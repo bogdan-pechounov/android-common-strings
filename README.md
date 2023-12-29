@@ -4,7 +4,7 @@ Some common strings used across projects.
 
 
 ## Import
-Add jitpack
+Add jitpack to `settings.gradle.kts`.
 ```kotlin
 maven { setUrl("https://jitpack.io") }
 ```
@@ -21,7 +21,7 @@ dependencyResolutionManagement {
 ```
 Add dependency.
 ```kotlin
-implementation("com.github.bogdan-pechounov:compose-custom-colors:0.1")
+implementation("com.github.bogdan-pechounov:android-common-strings:0.1")
 ```
 ## References
 
