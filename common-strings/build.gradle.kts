@@ -74,7 +74,7 @@ publishing {
         create<MavenPublication>("release") {
             groupId = "com.github.bogdan-pechounov"
             artifactId = "android-common-strings"
-            version = "0.3"
+            version = "0.4"
 
             afterEvaluate {
                 from(components["release"])

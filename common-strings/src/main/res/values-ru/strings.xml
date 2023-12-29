@@ -1,4 +1,5 @@
 <resources>
+    <string name="_common_strings_confirm">Подтвердите</string>
     <string name="_common_strings_cancel">Отмена</string>
     <string name="_common_strings_review">Отзыв</string>
     <string name="_common_strings_settings">Настройки</string>
@@ -14,4 +15,7 @@
     <string name="_common_strings_device">Устройство</string>
     <string name="_common_strings_light_theme">Светлая тема</string>
     <string name="_common_strings_dark_theme">Темная тема</string>
+    <string name="_common_strings_dynamic_color">Динамический цвет</string>
+    <string name="_common_strings_dark">Темнота</string>
+    <string name="_common_strings_light">Свет</string>
 </resources>

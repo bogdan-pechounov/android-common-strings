@@ -1,4 +1,5 @@
 <resources>
+    <string name="_common_strings_confirm">Confirmer</string>
     <string name="_common_strings_cancel">Annuler</string>
     <string name="_common_strings_review">Avis</string>
     <string name="_common_strings_settings">Paramètres</string>
@@ -14,4 +15,7 @@
     <string name="_common_strings_device">Dispositif</string>
     <string name="_common_strings_light_theme">Thème lumineux</string>
     <string name="_common_strings_dark_theme">Thème sombre</string>
+    <string name="_common_strings_dynamic_color">Couleur dynamique</string>
+    <string name="_common_strings_dark">Sombre</string>
+    <string name="_common_strings_light">Lumière</string>
 </resources>
