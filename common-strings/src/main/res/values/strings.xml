@@ -16,4 +16,7 @@
     <string name="_common_strings_device">Device</string>
     <string name="_common_strings_light_theme">Light theme</string>
     <string name="_common_strings_dark_theme">Dark theme</string>
+    <string name="_common_strings_dynamic_color">Dynamic Color</string>
+    <string name="_common_strings_dark">Dark</string>
+    <string name="_common_strings_light">Light</string>
 </resources>
