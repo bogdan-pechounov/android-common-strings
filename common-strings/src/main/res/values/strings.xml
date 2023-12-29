@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="_common_strings_cancel">Cancel</string>
+    <string name="_common_strings_review">Review</string>
+    <string name="_common_strings_settings">Settings</string>
+    <string name="_common_strings_dismiss">Dismiss</string>
+    <string name="_common_strings_feedback">Feedback</string>
+    <string name="_common_strings_contact">Contact</string>
+</resources>
