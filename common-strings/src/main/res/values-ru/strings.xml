@@ -1,0 +1,17 @@
+<resources>
+    <string name="_common_strings_cancel">Отмена</string>
+    <string name="_common_strings_review">Отзыв</string>
+    <string name="_common_strings_settings">Настройки</string>
+    <string name="_common_strings_dismiss">Увольте</string>
+    <string name="_common_strings_feedback">Обратная связь</string>
+    <string name="_common_strings_contact">Связаться с</string>
+    <string name="_common_strings_menu">Меню</string>
+    <string name="_common_strings_try_again">Попробуйте еще раз</string>
+    <string name="_common_strings_import">Импорт</string>
+    <string name="_common_strings_general">Общие сведения</string>
+    <string name="_common_strings_theme">Тема</string>
+    <string name="_common_strings_go_back">Вернуться</string>
+    <string name="_common_strings_device">Устройство</string>
+    <string name="_common_strings_light_theme">Светлая тема</string>
+    <string name="_common_strings_dark_theme">Темная тема</string>
+</resources>

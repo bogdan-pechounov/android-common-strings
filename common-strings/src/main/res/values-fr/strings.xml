@@ -1,0 +1,17 @@
+<resources>
+    <string name="_common_strings_cancel">Annuler</string>
+    <string name="_common_strings_review">Avis</string>
+    <string name="_common_strings_settings">Paramètres</string>
+    <string name="_common_strings_dismiss">Rejeter</string>
+    <string name="_common_strings_feedback">Commentaires</string>
+    <string name="_common_strings_contact">Contact</string>
+    <string name="_common_strings_menu">Menu</string>
+    <string name="_common_strings_try_again">Réessayer</string>
+    <string name="_common_strings_import">Importer</string>
+    <string name="_common_strings_general">Général</string>
+    <string name="_common_strings_theme">Thème</string>
+    <string name="_common_strings_go_back">Retourner</string>
+    <string name="_common_strings_device">Dispositif</string>
+    <string name="_common_strings_light_theme">Thème lumineux</string>
+    <string name="_common_strings_dark_theme">Thème sombre</string>
+</resources>
