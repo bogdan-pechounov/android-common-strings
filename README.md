@@ -21,7 +21,7 @@ dependencyResolutionManagement {
 ```
 Add dependency.
 ```kotlin
-implementation("com.github.bogdan-pechounov:android-common-strings:0.1")
+implementation("com.github.bogdan-pechounov:android-common-strings:0.2")
 ```
 ## References
 
